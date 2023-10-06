@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lithium_engin_SDK", "lithium_engin_SDK\lithium_engin_SDK.vcxproj", "{B9957068-B8EC-4F01-8D1F-5BC2F0682B81}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lithium_engin", "lithium_engin\lithium_engin.vcxproj", "{1225C011-C6DB-4C99-9542-D1D0BD5B88C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1225C011-C6DB-4C99-9542-D1D0BD5B88C8}.Debug|x64.ActiveCfg = Debug|x64
+		{1225C011-C6DB-4C99-9542-D1D0BD5B88C8}.Debug|x64.Build.0 = Debug|x64
+		{1225C011-C6DB-4C99-9542-D1D0BD5B88C8}.Release|x64.ActiveCfg = Release|x64
+		{1225C011-C6DB-4C99-9542-D1D0BD5B88C8}.Release|x64.Build.0 = Release|x64
+		{B9957068-B8EC-4F01-8D1F-5BC2F0682B81}.Debug|x64.ActiveCfg = Debug|x64
+		{B9957068-B8EC-4F01-8D1F-5BC2F0682B81}.Debug|x64.Build.0 = Debug|x64
+		{B9957068-B8EC-4F01-8D1F-5BC2F0682B81}.Release|x64.ActiveCfg = Release|x64
+		{B9957068-B8EC-4F01-8D1F-5BC2F0682B81}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9970DF3F-0258-4530-BCA2-7BF439A88086}
+	EndGlobalSection
+EndGlobal
